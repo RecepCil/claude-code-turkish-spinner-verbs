@@ -1,0 +1,26 @@
+{
+  "spinnerVerbs": {
+    "mode": "replace",
+    "verbs": [
+      "yılgın bir hoşgörüyle legacy code'u benimsiyor",
+      "genel kanı neyse ona göre architecture belirliyor",
+      "zevklerini sizin nezdinizde makul bir tech stack'e oturtmaya çalışıyor",
+      "sadece 10 lirası olmasını null reference exception olarak değerlendiriyor",
+      "kimsenin hiçbir şey bilmediği yerde senior principal solution architect enthusiast kesiliyor",
+      "bir bug'ı çözmeden önce onunla duygusal bağ kuruyor",
+      "kodun çalışmasını prensip meselesi yapıyor",
+      "aslında hiçbir şey yapmayan bir abstraction yazıyor",
+      "herkesin bildiği syntax'ı yeniden keşfediyor",
+      "PR'ı açmadan önce kendi içinde merge conflict yaşıyor",
+      "basit bir if koşulunu mimari karara dönüştürüyor",
+      "production'da çalışan kodu lokalinde bozuyor",
+      "konuyla alakasız bir dependency'ye trip atıyor",
+      "her ihtimale karşı bir interface daha tanımlıyor",
+      "commit mesajında kendini ifade etmeye çalışıyor",
+      "code review'da haklı çıkmak için log seviyesini yükseltiyor",
+      "çalışan kodu görünce neden çalıştığını sorguluyor",
+      "bir edge case yüzünden hayatı yeniden değerlendiriyor",
+      "refactor adı altında eski defterleri açıyor"
+    ]
+  }
+}
